@@ -5,10 +5,21 @@ hr {
     border-width: 5px;
     width: 3%;
 }
+
 body {
     background-color: #F9F7F7;
+
 }
-img {
+
+h1 {
+    color: #3F72AF;
+}
+
+h3 {
+    color: #3F72AF;
+}
+
+#profile {
     border-radius: 50%;
     height: 150px;
     width: 150px;
